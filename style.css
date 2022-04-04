@@ -14,4 +14,14 @@ body{
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.Parceiros{
+    background-color: #58faf4;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
